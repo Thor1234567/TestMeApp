@@ -12,5 +12,9 @@ import cucumber.api.junit.Cucumber;
  glue= {"stepdefinition"}
  )
 public class runner {
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
